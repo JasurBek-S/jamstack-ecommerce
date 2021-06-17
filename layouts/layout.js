@@ -30,7 +30,7 @@ export default function Layout({ children, categories }) {
                     sm:mr-8 sm:mb-0
                     mb-4 text-left text-smaller mr-4
                   ">
-                  Home
+                  Bosh sahifa
                   </p>
                 </a>
               </Link>
@@ -57,7 +57,7 @@ export default function Layout({ children, categories }) {
                     sm:mr-8 sm:mb-0
                     mb-4 text-left text-smaller mr-4 
                   ">
-                  All
+                  Barcha bo'limlar
                   </p>
                 </a>
               </Link>
